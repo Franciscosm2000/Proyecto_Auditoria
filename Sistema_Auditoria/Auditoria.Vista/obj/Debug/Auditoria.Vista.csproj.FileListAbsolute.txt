@@ -1,0 +1,8 @@
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.pdb
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.exe
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.pdb
