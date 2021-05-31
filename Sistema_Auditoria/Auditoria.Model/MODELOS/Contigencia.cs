@@ -22,7 +22,7 @@ namespace Auditoria.Model.MODELOS
             this.IdConsecuencia = idConsecuencia;
             this.Descripcion = descripcion;
         }
-        //get and set
+        //get and sets
         public int Id { get => id; set => id = value; }
         public int IdConsecuencia { get => idConsecuencia; set => idConsecuencia = value; }
         public string Descripcion { get => descripcion; set => descripcion = value; }
