@@ -6,3 +6,7 @@ C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditori
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CoreCompileInputs.cache
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.exe
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.pdb
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe.config
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.dll
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.pdb
+C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CopyComplete

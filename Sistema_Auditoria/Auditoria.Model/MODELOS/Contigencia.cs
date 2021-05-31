@@ -17,7 +17,7 @@ namespace Auditoria.Model.MODELOS
         private string descripcion;
 
         //constructor
-        public Contigencia(int id = 0, int idConsecuencia = 0, string descripcion) {
+        public Contigencia(int id = 0, int idConsecuencia = 0, string descripcion = null) {
             this.Id = id;
             this.IdConsecuencia = idConsecuencia;
             this.Descripcion = descripcion;
