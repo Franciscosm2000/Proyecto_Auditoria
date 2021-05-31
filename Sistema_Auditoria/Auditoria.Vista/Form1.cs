@@ -44,5 +44,15 @@ namespace Auditoria.Vista
         {
             AddWindow<Monitoreo>();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AddWindow<Riesgos>();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            AddWindow<Reportes>();
+        }
     }
 }

@@ -56,6 +56,18 @@
     <Compile Include="FrameMDI\Monitoreo.Designer.cs">
       <DependentUpon>Monitoreo.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrameMDI\Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrameMDI\Reportes.Designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrameMDI\Riesgos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrameMDI\Riesgos.Designer.cs">
+      <DependentUpon>Riesgos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
