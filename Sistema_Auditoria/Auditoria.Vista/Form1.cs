@@ -54,5 +54,10 @@ namespace Auditoria.Vista
         {
             AddWindow<Reportes>();
         }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -71,6 +71,7 @@ namespace Auditoria.Vista
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(197, 444);
             this.panel4.TabIndex = 2;
+            this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
             // 
             // button3
             // 
