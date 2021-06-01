@@ -82,6 +82,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "Monitoreo";
             this.Text = "Monitoreo";
+            this.Load += new System.EventHandler(this.Monitoreo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.ResumeLayout(false);
