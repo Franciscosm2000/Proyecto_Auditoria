@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsecuenciaController.cs" />
+    <Compile Include="ContingenciaController.cs" />
+    <Compile Include="ControlController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RiesgoController.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Auditoria.Model\Auditoria.Model.csproj">

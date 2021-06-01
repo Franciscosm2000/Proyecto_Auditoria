@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Auditoria.Model.Conexion
 {
-    abstract class ConnectionToSQL
+    abstract public class ConnectionToSQL
     {
         //String solo lectura 
         private readonly string connectionString;
@@ -15,7 +15,7 @@ namespace Auditoria.Model.Conexion
         public ConnectionToSQL()
         {
             //Cadena servidor 
-            connectionString = @"Data Source=LAPTOP-V5E4QOLS\SQLEXPRESS;Initial Catalog=COSO;Integrated Security=True";
+            connectionString = @"Data Source=DESKTOP-PVPMNFE\SQLEXPRESS;Initial Catalog=COSO;Integrated Security=True";
 
         }
 

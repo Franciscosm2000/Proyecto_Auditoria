@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Auditoria.Model.MODELOS
 {
-    class Consecuencia: ConnectionToSQL
+    public class Consecuencia: ConnectionToSQL
     {
         //atributos
         private int id;
