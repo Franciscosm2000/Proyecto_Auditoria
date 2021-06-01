@@ -19,7 +19,6 @@ namespace Auditoria.Vista.FrameMDI
 
         private void Monitoreo_Load(object sender, EventArgs e)
         {
-            
         }
     }
 }

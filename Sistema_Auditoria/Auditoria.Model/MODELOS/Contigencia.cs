@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Auditoria.Model.MODELOS
 {
-    class Contigencia:ConnectionToSQL
+    public class Contigencia:ConnectionToSQL
     {
         //atributos
         private int id;
