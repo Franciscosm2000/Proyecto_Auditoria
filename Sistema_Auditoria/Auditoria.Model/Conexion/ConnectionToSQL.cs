@@ -15,7 +15,7 @@ namespace Auditoria.Model.Conexion
         public ConnectionToSQL()
         {
             //Cadena servidor 
-            connectionString = @"server=tcp:FRANCISCO,12500; DataBase =PawnSystem; User Id = CasaDeEmpeño; Password=1320022077";
+            connectionString = @"Data Source=LAPTOP-V5E4QOLS\SQLEXPRESS;Initial Catalog=COSO;Integrated Security=True";
 
         }
 

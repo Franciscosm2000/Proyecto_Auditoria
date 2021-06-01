@@ -13,3 +13,17 @@ C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditori
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.csproj.CopyComplete
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.dll
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\Auditoria.Controler.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\Auditoria.Controler.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\Auditoria.Model.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Memory.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Buffers.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\Auditoria.Model.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Memory.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\bin\Debug\System.Buffers.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.csprojAssemblyReference.cache
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.csproj.CopyComplete
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Controler\obj\Debug\Auditoria.Controler.pdb

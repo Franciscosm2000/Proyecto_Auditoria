@@ -11,3 +11,15 @@ C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditori
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.csproj.CopyComplete
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.dll
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\Auditoria.Model.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\Auditoria.Model.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Buffers.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Memory.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Buffers.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Memory.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.csprojAssemblyReference.cache
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.csproj.CopyComplete
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Model\obj\Debug\Auditoria.Model.pdb

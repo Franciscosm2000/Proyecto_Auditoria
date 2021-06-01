@@ -6,7 +6,34 @@ C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditori
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CoreCompileInputs.cache
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.exe
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.pdb
+<<<<<<< HEAD
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.pdb
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.Form1.resources
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.Properties.Resources.resources
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.exe
+C:\Users\franc\OneDrive\Documentos\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.pdb
+=======
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe.config
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.dll
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.pdb
 C:\Users\franc\OneDrive\Escritorio\Proyecto Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CopyComplete
+>>>>>>> main
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe.config
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.exe
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Vista.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.dll
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\bin\Debug\Auditoria.Controler.pdb
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csprojAssemblyReference.cache
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.Form1.resources
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.FrameMDI.Monitoreo.resources
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.FrameMDI.Reportes.resources
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.FrameMDI.Riesgos.resources
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.Properties.Resources.resources
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.GenerateResource.cache
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.csproj.CopyComplete
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.exe
+C:\Users\aflor\Desktop\Proyecto_Auditoria\Sistema_Auditoria\Auditoria.Vista\obj\Debug\Auditoria.Vista.pdb
